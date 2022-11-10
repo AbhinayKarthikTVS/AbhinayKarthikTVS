@@ -11,4 +11,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/" width="21px"/></a>
 <a href="https://www.instagram.com/abhinay_karthik23/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="https://www.instagram.com/abhinay_karthik23/" width="21px"/></a>
-<a href="https://www.instagram.com/abhinay_karthik23/"><img align="left" src="https://www.flaticon.com/free-icon/gmail_5968534?term=gmail&page=1&position=3&page=1&position=3&related_id=5968534&origin=search" alt="https://www.instagram.com/abhinay_karthik23/" width="21px"/></a>
+<i class="fa-brands fa-facebook"></i>
