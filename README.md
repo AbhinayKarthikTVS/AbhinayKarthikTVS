@@ -12,4 +12,4 @@
 <a href="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/" width="21px"/></a>
 <a href="https://www.instagram.com/abhinay_karthik23/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="https://www.instagram.com/abhinay_karthik23/" width="21px"/></a>
 <a href="https://twitter.com/TvsAbhinay">
-    <img src="https://img.shields.io/badge/Twitter-blue" alt="Twitter icon"/>
+   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
