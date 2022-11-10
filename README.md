@@ -1,8 +1,10 @@
 <h1 align="center"> wotcha 👋, I'm Twarakavi Venkata Satya Abhinay Karthik</h1>
-<h3 align="center">MM-NIT ROURKELA</h3>
-- 🎓 I’m an Undergrad at *NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA*
+<h3 align="center">Metallurgical and Materials Engineering-NIT ROURKELA</h3>
+- 🎓 I’m an Undergraduate at *NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA*
 
 - 💻 I’m learning ANALYTICS *at [GA] NIT ROURKELA*
+
+- 🌱 I have learnt the basics of *Python*
 
 - 🌱 I’m currently learning *SQL*
 <h3 align="left">Connect with me:</h3>
