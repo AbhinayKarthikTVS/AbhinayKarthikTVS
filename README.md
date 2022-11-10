@@ -11,4 +11,4 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/" width="21px"/></a>
 <a href="https://www.instagram.com/abhinay_karthik23/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="https://www.instagram.com/abhinay_karthik23/" width="21px"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-abhinaykarthiktvs@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinaykarthiktvs@gmail.com)](mailto:abhinaykarthiktvs@gmail.com)
+
