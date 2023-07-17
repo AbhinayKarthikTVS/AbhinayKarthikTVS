@@ -7,7 +7,7 @@
 
 - 🌱 I have learnt *SQL*
 
-- 🌱I'm currently learning *Deep Learning*
+- 🌱I have learnt *Machine Learning*
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="https://www.linkedin.com/in/abhinay-karthik-tvs-04318623b/" width="21px"/></a>
