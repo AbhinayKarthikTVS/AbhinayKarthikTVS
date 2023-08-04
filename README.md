@@ -4,7 +4,7 @@
 
 - 🎓 I’m currently pursuing my Undergraduate degree at *NATIONAL INSTITUTE OF TECHNOLOGY ROURKELA*
 
-- 🌱 I am a *Data Science* enthusisat.
+- 🌱 I am a *Data Science* enthusiast.
   
 - 🌱 I have learnt *Python* and few libraries of it. 
 
